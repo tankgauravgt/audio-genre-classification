@@ -30,6 +30,6 @@ def save_response_content(response, destination):
                 f.write(chunk)
 
 if __name__ == "__main__":
-    file_id = '181Ua_0HhqaWlyCeHD6_hFsPZhGbFKbU8'
-    destination = './data/fma_large.zip'
+    file_id = '1V_DRaBFjppRjg1vSPVaPVlLfetwbERSb'
+    destination = './data/dataset.zip'
     download_file_from_google_drive(file_id, destination)
