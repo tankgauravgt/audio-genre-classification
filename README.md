@@ -1,3 +1,3 @@
 # audio-genre-classification
 
-Pull req example
+Content Based Music Genre Classification using Spectral and Temporal Features.
