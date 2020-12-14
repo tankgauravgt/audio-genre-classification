@@ -31,5 +31,5 @@ def save_response_content(response, destination):
 
 if __name__ == "__main__":
     file_id = '1V_DRaBFjppRjg1vSPVaPVlLfetwbERSb'
-    destination = './data/dataset.zip'
+    destination = './dataset.zip'
     download_file_from_google_drive(file_id, destination)
